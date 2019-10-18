@@ -47,7 +47,7 @@
 	<mysql-connector-version>5.1.26</mysql-connector-version>	
 	<datanucleous-version>3.2.6</datanucleous-version>	
 	<atomikos-version>3.9.0.M1</atomikos-version>	
-	<solr-version>4.4.0</solr-version>	
+	<solr-version>8.2.0</solr-version>	
 	
 	<!-- Utility properties -->
 	<dozer-version>5.4.0</dozer-version>	
