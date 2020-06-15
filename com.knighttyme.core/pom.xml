@@ -43,7 +43,7 @@
 
 	<!-- Persistence Properties   -->
 	<hibernate-version>4.2.3.Final</hibernate-version>
-	<hibernate-validator-version>5.0.1.Final</hibernate-validator-version>
+	<hibernate-validator-version>5.3.5.Final</hibernate-validator-version>
 	<mysql-connector-version>5.1.26</mysql-connector-version>	
 	<datanucleous-version>3.2.6</datanucleous-version>	
 	<atomikos-version>3.9.0.M1</atomikos-version>	
